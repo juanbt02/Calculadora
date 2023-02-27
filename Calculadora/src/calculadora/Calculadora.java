@@ -12,6 +12,7 @@ package calculadora;
  */
 
 /*Clase para hacer calculos matemáticos*/
+/*Clase Calculadora de la rama1*/
 
 public class Calculadora {
     private int num1;
