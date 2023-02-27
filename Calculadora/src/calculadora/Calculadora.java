@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package calculadora;
 
 /**
  *
  * @author redes
  */
+
+/*Clase para hacer calculos matemáticos*/
+
 public class Calculadora {
     private int num1;
     private int num2;
