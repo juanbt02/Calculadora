@@ -12,6 +12,7 @@ package calculadora;
  */
 
 /*Clase para hacer calculos matemáticos*/
+/*Cambio desde github*/
 
 public class Calculadora {
     private int num1;
